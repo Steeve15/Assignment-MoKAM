@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891091707326",
+    "project_id": "mo-kam",
+    "storage_bucket": "mo-kam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891091707326:android:707f429a5eafa16fd105ef",
+        "android_client_info": {
+          "package_name": "com.example.assignment_mokam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtr_z4K7eroAkmUVXuDlTh6su5wwokb7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
